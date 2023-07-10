@@ -29,5 +29,7 @@ user = input("What thou pickest? :")
 while game_round < 3:
     game(user.lower(),random.choice(computer_choices))
     game_round += 1
+    break
+
 
 
