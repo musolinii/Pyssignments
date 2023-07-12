@@ -5,3 +5,5 @@ x = len(names) - 1
 print(names[x])
 
 print("Always")
+
+#Delete shit
