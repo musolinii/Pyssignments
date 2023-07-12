@@ -3,3 +3,5 @@ print (names[4])
 print(len(names))
 x = len(names) - 1
 print(names[x])
+
+print("Always")
